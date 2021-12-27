@@ -1,7 +1,5 @@
 use std::collections::{HashMap, BinaryHeap};
 
-
-
 // create a function that is a priority queue and is backed by a key value store 
 // that is a hashmap of key value pairs 
 // the key is the priority and the value is the value
